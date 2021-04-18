@@ -13,11 +13,11 @@ Contact with me via these platforms!
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayselmehmetzade&layout=compact&theme=light)
 
 ## Technologies & Tools 
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white%22%3E</img>
-<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white</img>
-<img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=white%22%3E</img>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white%22%3E</img>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white%22%3E</img>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E%22%3E</img>
+<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E%22%3E"></img>
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white" />
