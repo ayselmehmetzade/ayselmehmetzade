@@ -15,6 +15,7 @@ Contact with me via these platforms!
 ## Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white%22%3E"></img>
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=white%22%3E"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white%22%3E"></img>
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white%22%3E"></img>
