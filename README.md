@@ -4,7 +4,7 @@
 ### Hi there :wave:
 I'm Aysel!
 
-Contact with me via these platforms! 
+Contact me via these platforms! 
 
   <a href="https://www.linkedin.com/in/aysel-mammedzade-a3b9421a9/" target="_blank" rel="nofollow"><img alt="Aysel's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:ayselmehmetzade@hotmail.com" target="_blank" rel="nofollow"><img alt="Aysel's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
